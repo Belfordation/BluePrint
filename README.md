@@ -1,5 +1,5 @@
 # BluePrint
-a good blueprint for data preprocessing
+a simple blueprint for data preprocessing
 
 Pre-modeling/modeling 80%/20% of work
 Show the importance of data preprocessing, feature exploration, and feature engineering on model performace
