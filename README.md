@@ -2,7 +2,7 @@
 a simple blueprint for data preprocessing
 
 
-
+-GOAL:
 Pre-modeling/modeling 80%/20% of work
 
 Show the importance of data preprocessing, feature exploration, and feature engineering on model performace
@@ -14,7 +14,7 @@ Format:
 
 
 
-Tutorial style
+-Tutorial style:
 
 Walk through concepts and code (and point out libraries)
 
@@ -22,7 +22,7 @@ Use an edited version of the 'adult' dataset (to predict income) with the object
 
 
 
-Python libraries:
+-Python libraries:
 
 Numpy
 Pandas
